@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+	background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+#congratulations {
+	color:white;
+	text-transform: uppercase;
+}
